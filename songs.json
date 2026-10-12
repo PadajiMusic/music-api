@@ -3,42 +3,42 @@
     "id": 1,
     "title": "Song One",
     "artist": "Artist One",
-    "cover": "https://example.com/cover1.jpg",
-    "audio": "https://example.com/song1.mp3"
+    "cover": "https://dl.dropbox.com/scl/fi/z8dk55d215drcbe6rx9pu/1bahutpyar.jpg?rlkey=zn1k8vwovzjbme9g6ry4dhthm&dl=1",
+    "audio": "https://dl.dropbox.com/scl/fi/i92o8j5cx3rofgy19upzq/1bahutpyar.mp3?rlkey=vq6hyz779c1ft8yvswbuzy78t&dl=1"
   },
   {
     "id": 2,
     "title": "Song Two",
     "artist": "Artist Two",
-    "cover": "https://example.com/cover2.jpg",
-    "audio": "https://example.com/song2.mp3"
+    "cover": "https://dl.dropbox.com/scl/fi/ue4o003ekvson6i14zb5u/6dilkearman.jpg?rlkey=smx97400ck75yak3dlyrjrssd&dl=1",
+    "audio": "https://dl.dropbox.com/scl/fi/men35yf84xgh4a8judve5/6dilkearman.mp3?rlkey=7z2avvv7njnmeex5e3eh0cpse&dl=1"
   },
   {
     "id": 3,
     "title": "Song Three",
     "artist": "Artist Three",
-    "cover": "https://example.com/cover3.jpg",
-    "audio": "https://example.com/song3.mp3"
+    "cover": "https://dl.dropbox.com/scl/fi/bqktf00oolz1rs307kt7u/25sabbhuladiya.jpg?rlkey=5uuki00pqtrmhel3402vugvpg&dl=1",
+    "audio": "https://dn710303.ca.archive.org/0/items/padapadivlogs/Aaye%20Ho%20Zindagi%20Mein.mp3"
   },
   {
     "id": 4,
     "title": "Song Four",
     "artist": "Artist Four",
-    "cover": "https://example.com/cover4.jpg",
-    "audio": "https://example.com/song4.mp3"
+    "cover": "https://dl.dropbox.com/scl/fi/sf33n1wc367aob2xfeyot/16osahiba.jpg?rlkey=utqx4p7tnxl8wkl8fw8v58jp8&dl=1",
+    "audio": "https://archive.org/download/padapadivlogs/Achha%20Sila%20Diya.mp3"
   },
   {
     "id": 5,
     "title": "Song Five",
     "artist": "Artist Five",
-    "cover": "https://example.com/cover5.jpg",
-    "audio": "https://example.com/song5.mp3"
+    "cover": "https://dl.dropbox.com/scl/fi/bqktf00oolz1rs307kt7u/25sabbhuladiya.jpg?rlkey=5uuki00pqtrmhel3402vugvpg&dl=1",
+    "audio": "https://archive.org/download/padapadivlogs/Aitbaar.mp3"
   },
   {
     "id": 6,
     "title": "Song Six",
     "artist": "Artist Six",
-    "cover": "https://example.com/cover6.jpg",
-    "audio": "https://example.com/song6.mp3"
+    "cover": "https://dl.dropbox.com/scl/fi/rwnn1e5qp2r98sgfrcywb/7dillagaliya.jpg?rlkey=ffafdb3jkiiohboypczhl15jm&dl=1",
+    "audio": "https://dl.dropbox.com/scl/fi/0n6c5ovk8clv4o5yvpizx/7dillagaliya.mp3?rlkey=csbwak1kdax2wic1t6zokpqhh&dl=1"
   }
 ]
